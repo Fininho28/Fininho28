@@ -1,14 +1,13 @@
 <h3 align="center">
-        <samp>&gt; Olá!, Eu sou o
+        <samp>&gt; Hey there!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/andrediogo02">André Ferreira</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://github.com/Fininho28">「 GitHub Me 」</a>
     <br>
-    « Sou um estudante e aspirante a <b>Data Scientist</b> baseado em <b>Portugal</b> »
+    « Recent Computer Engineering graduate from the University of Aveiro focused on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b>, based in <b>Portugal</b>. »
     <br>
     <br>
   </samp>
@@ -21,24 +20,24 @@
 </p>
 <br />
 
-## Tecnologias e Ferramentas
+## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-183A54?style=for-the-badge&logo=optuna&logoColor=3FB2ED)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 <br/>
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Fininho28">
@@ -52,4 +51,4 @@
   <br/>
 </a>
 
-![André's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fininho28&custom_title=Histórico%20de%20Atividade%20de%20André&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![André's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fininho28&custom_title=Andr%C3%A9's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
