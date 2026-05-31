@@ -7,7 +7,7 @@
 <p align="center"> 
   <samp>
     <br>
-    « Recent Computer Engineering graduate from the University of Aveiro focused on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b>, based in <b>Portugal</b>. »
+    « Recent Computational Engineering graduate from the University of Aveiro focused on <b>Data Science</b>, <b>Machine Learning</b>, and <b>AI</b>, based in <b>Portugal</b>. »
     <br>
     <br>
   </samp>
